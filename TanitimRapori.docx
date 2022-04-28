@@ -1,0 +1,46 @@
+Ali Rýza Kayðusuz
+02170201010
+
+
+BMG4-TANITIM RAPORU
+
+Proje: BeerList
+Amacý:  API’dan verileri çekip kullanýcýlara detaylarý göstermektedir.
+
+Ekranlar:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Projede Kullanýlan Kütüphaneler:
+    • lifeCycle
+    • navigation
+    • gson
+    • retrofit
+    • rxJava
+    • glide
+    • room
+    • coroutine
+    • preferences
+
+Proje Android’de popüler olan kütüphaneler efektif bir  þekilde kullanýlmýþtýr.UI bloklanmasý engellenmiþtir ve API’den sürekli veri çekilmemiþtir bu sayede uygulama daha hýzlý çalýþmaktadýr çünkü uygulamada kullanýlan biralarýn tarifleri sürekli deðiþmemektedir.MVVM mimarisi kullanýlmýþtýr.
